@@ -1,0 +1,36 @@
+1.  실행하기 전에 "SogangUniv.uproject" 파일을 마우스 오른쪽 버튼으로 클릭하고 
+    "Generate Visual Studio project files"을 클릭합니다.
+
+    Before running, right-click the "SogangUniv.uproject" file 
+    and click "Generate Visual Studio Project File".
+
+
+2.  "SogangUniv.uproject"  파일 실행
+    Run "SogangUniv.uproject" file
+
+
+3.  커밋하기 전에 "Commit List.png"를 참조하십시오.
+    필요한 파일을 제외한 모든 파일을 삭제 후 커밋해 주세요.
+    Before commit, refer to "Commit List.png"
+    Please commit after deleting all files except for the necessary files.
+    
+
+4.  Commit을 하기 전에 신중하게 해주세요.
+    Log에는 반드시 날짜, 작업자, 수정 내용이 포함되어야 합니다.  
+    예시)
+    211118 - 이승훈
+    기본 svn의 Commit 규칙, 사용법 및 필수 리소스 업데이트
+
+    Do it carefully before committing.
+    Logs must include the date, Who did Data, and modification.    
+    Ex)
+    201118 - Yi Seunghun
+    Update Commit rules, usage and required resources of default svn
+
+
+5.  Commit 전에는 무조건 최신 Update를 받은 후에 사전 팀원들의 동의 후에 Commit 진행을 해야함.
+    
+    Before commit, you must receive the latest update and then proceed 
+    with the commit after prior consent from the team members.
+
+Design by Head of Project YC : Yi Seung hun

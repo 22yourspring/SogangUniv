@@ -1,0 +1,25 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Source\\SogangUniv\\SogangUniv.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\AWSCore\\AWSCore.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\S3\\S3.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\S3CRT\\S3CRT.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\S3Outposts\\S3Outposts.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\S3Encryption\\S3Encryption.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\S3Control\\S3Control.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\Transfer\\Transfer.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\ThirdParty\\AWSCoreLibrary\\AWSCoreLibrary.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\ThirdParty\\S3ClientLibrary\\S3ClientLibrary.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\ThirdParty\\KMSClientLibrary\\KMSClientLibrary.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\ThirdParty\\S3ControlClientLibrary\\S3ControlClientLibrary.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\ThirdParty\\S3EncryptionClientLibrary\\S3EncryptionClientLibrary.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\ThirdParty\\S3CRTClientLibrary\\S3CRTClientLibrary.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\ThirdParty\\TransferClientLibrary\\TransferClientLibrary.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\awsS3BlueprintPlugin\\Source\\ThirdParty\\S3OutpostsClientLibrary\\S3OutpostsClientLibrary.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\mobilehelper\\Source\\mobilehelper\\mobilehelper.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Plugins\\MobileNativeCode\\Source\\MobileNativeCode\\MobileNativeCode.Build.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Source\\SogangUniv.Target.cs",
+		"C:\\Users\\skywo\\Desktop\\Project_YC\\SogangUniv\\Source\\SogangUnivEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

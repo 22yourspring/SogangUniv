@@ -1,0 +1,945 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "302BF1D41927CDCE348F8800CD9442C56CEA9F5A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "78F3E984434515C40E67A0D0201D0EC6F0B8DA1E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "468A65F34220F5513E7C202CC3EA3BB1CCA1EFAD",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "40E0B869DB6A7E253975F75CF68019CD55706992",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A756EA035B67BD01A0DA48A88D792B984E072950",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5B82E12BC8387D29CE394BE655C180B904EB9544",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "46AAB19B7C014061D2DB679E7AA90F76A93F3CE7",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F4DD105A7F0918C3DE95ADC74D1413D0EEF6B2FB",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98D22953BF67D4497BD631553B454D7BD4B1425F",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61E6AF6AC17AEB6CDA011930BBE8AC5F4E1BFB3F",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ADB48262BA7812B3FDDDA744C9BF6B65DF00E0C8",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3331474A0E25439C8D2F8A8CD5E0DC89DFA049CD",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/UI/MTUIRenderTargetDepthClear.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "62FD1C92D7684DC64FC0AD008F97448D915EF10E",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_primitive_dyn02.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_primitive_dynB_two.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_primitive_dyn02_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "08E132D9547EA79CE4B1588CFB3060B7A1AC0ABE",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_fire03b.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "949A1F473A01F48F7071AD4BE7F5C1C87C2D7B7E",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_line.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0A27A5C1E60CFE958EE809AADE0E796A55620F7F",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_aura18.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1358AC6B74521005D7864BD18CFA7DA6B079B2F8",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Etc/Arrow_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7268A0B4B454ADD2B5B686F6FAC6B464A8DD94E5",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Etc/MT_QuestRoomEnter.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A47309D42D599AB11CB90F1955712C35A8AD24D6",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Player/Pspsps_Cat/MT_Pspsps_CatSkill2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8356D3772735835DD93B4DDCFEDD2D2362E6B846",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_starDust_sq.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1EAC254B413CDDA3157F702B981FE1440D5AA6E9",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_starDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F50459223E084FBD7C5ECA73D050B0F42A02FF0D",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_starDust_dis.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1ED313BDA3AE5485474B4687CD37549CC32E7F4E",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_Props.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A1801533448A68776E68B3F2D343E289C68F425E",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_waterDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1ABA4DA87DCDF461EFACE5F8F932F086CBAF0711",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_flare_flash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7115361CEB61658A6503850E2E3997AFE3F67A9A",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare_flash_trs.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "62E851B213B520AF5E91ECBC0360F7968FE1B4E5",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_fire03b2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9035071E33C23745D92454DEC0DAA593B6B8DF5C",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_empty.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "778246EC9A07E20CFB70184A47FBBD4FCF9490D9",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_dust01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9487241AC727B9B77ACA7BB26D44769B4A27B51B",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Cat_Color/M_Chibi_Cat_0.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A9AB9BEF08CB3C63391398B9563077E8B3C6BC50",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Emotion/M_Chibi_Emo_1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "62D06D4B29DFF6E79435445CE7C8F3D20D07AEE4",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB816F9695CE71BE8D2853B08FF83768F1F56433",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8251C3C7C1FAC3B46B244213AF3D3EBA1FDEC8",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BBDDD21FC1ACDC8FB092E71F673914729C14ED34",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "31E505F4BC12D8E4C8006E64161E10BE9F03F4C6",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E3EE9CE83E3F5DD0727557322D6C1A9B86203625",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DADD20D78AE0BD8A8B782522677337D6DC87D184",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "766D36DB5F8C36345B0F07DA0E93E3E6D9D7EDF5",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F3B8472E428988F26FBC8ADCDCCE56CEB531E044",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DAE70F5763BC3CCDA2ECE22C0805B53D8B162B26",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3EA7B4029D1D03EA823E9D1DE0341BA54498BA8A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "223F66E2713519FFB67E9E00D1A93CD256E0BCBE",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C270951486C53CA85B8A94FCA7E8B33728453189",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F147BE8DC405803F692DAEA2150D1E5157329E32",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "38C310559266F236D3E9C07A143B89F0F3F842DA",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6FEEA75B837C3065DE3A43F3CFB50D4458423BD7",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BB53D4DDDAFF55435B0E4880C11906CB7E161DCA",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "521007926530C4518727EFA307904B65EA1980B5",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C59CAAA01510ECE55376CC4E92115DC0CD5D6E7A",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC064615C2E596C28A49769A63389A2908864B55",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A7BD32F7504A7B004AD163CFC849E976626FA5BF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EBA72998E9C848E899CC5DFF4D56D3F78FD3330C",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB6DAE95005C7790BAF9915267877D7343028F4A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2661E4F14E42BD2536F720EEFFCF030F8E753A89",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+				"../../../../0627/SogangUniv/Content/UI/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2DC667E3ECB3A427F375D42A7C73DFD74C5325E3",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_base_turbulence.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "96238D25D6F0F155A62C7FEAD767BB6D3B694392",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_dust02uni_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "48F8032E48DBDBB51768263CEC7EAEB0DD956C50",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_shockwave07.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C046FA2F7BC3CBF49BE11E856106C86EA1FAB5F5",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_dynDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9B31604D71E2123F53692AAEE749DCA61A23BF0C",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_slash02_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "65EEFCB2C80CFEF0181029D3218787B49ECF588D",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_slash01_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE389CE929191DA4A4A3ABF5F94362BA26D98D6A",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_primitive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "09A40E9C18302D0B91661B85428625E66C65DB4C",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_flare01_primitive.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare14R_two.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare14R_nonD.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare01b_primitiveR.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare01_primitiveR.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare15R.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E6D4A9BA1CBADC66C286CE627FE8A47C16D7DFCE",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare14R.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8AB12969084EB2ABA828B54D119502D49163BA44",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3D42E7DA078315D691E59DE63EF462945014C06F",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/UI/Sign.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "485CFB8F9F2E950E1B32CB875DCEDC923F90C5BE",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/UI/DefaultTextMaterialOpaque_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "260CA953028A1F2F4FE3339BACA755C327545DF8",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Equipment/M_Hiking_hat_A.uasset",
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Equipment/M_Baton_wood.uasset",
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Equipment/M_Bag_bread.uasset",
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Equipment/M_Whirligig.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "382E88795C6A649DF114607AA367B8DA948DF84A",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Equipment/M_GrassA_red.uasset",
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Equipment/M_SpadA.uasset",
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Meshes/Equipment/M_Pan.uasset",
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Equipment/M_MeatA.uasset",
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Equipment/M_Dried_fish.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BE619CA89362378CFC613A2E88E8CD82CDCD6E7D",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C039B9793DE83E52A0075047734580790BDF0896",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Environment/M_Environment_A.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5ECF2F266646750BD6E7227D8AD8E8FB44E38DAA",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Pspsps_Cat/Materials/Environment/M_Butterfly_A.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "52F3D4ED60E43E00EBDA9C6CB1FF54B948D44711",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_Water.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CCF4AE9044FA938C49D89125E86175CA4307F993",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_Terrain.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7932064FCA7F25F2C650F68C83FB63A733A4C718",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_LightBeam.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD9AC2E3433B83B8CAC92B2A5447AACFFBD19AFE",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_LF_Caustics.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0084117BB338FEAA0905901CA57E8AD78EF3473A",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_Curtain.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3B29EBBA7BEAC571C7F17DE1497FECA2EF2838E7",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/MI_Hat02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84D18342F21E959488E6AE710D073C5C4592CD36",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "936A525F1EB25912C4170EEC1FB2DE99B1B69159",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Decals/Materials/MI_D_Decals.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9DEB944FEBB76F4D2EA4DE9378FA7FAE40230F47",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Material/MI_D_Decals_2.uasset",
+				"../../../../0627/SogangUniv/Content/Material/MI_D_Decals.uasset",
+				"../../../../0627/SogangUniv/Content/Material/MI_D_Decals_3.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "30410C712E05D43D1634D7143D701A05D6C3921D",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_Wood.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E86EE9FFB711277EA36F05EFDAAA5365CCCD0AA",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "722375E0A41050DC27F4FB5B209DE647D383FC6B",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_CaveMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "454E0DDED44B747A20BD111994CE5C51BE2E1B9D",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/MI_TunnelWalls.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C65B877975345DE6B4C369B95EC0B61A7B16D944",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_Rocks.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6385AB354E8254B54582D8AA6A9F209CCA778CCE",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/MI_Posters.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E0DC9A0AD27DE2C9FC2BB0B9ABBBFEB3BC661C3B",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_Foliage.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F51918007AB34143C8ED84E234A6C9C254E38704",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "23309D3F3776FEBDC3467F30113725338C0D01CA",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "71BA5243708DF73872CBB28C3442FA7CF1130F1F",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E5444FFDB30E7CEBE4D4318386AF47B78F4B0EBA",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars_Moon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4600E39B2895BE5879690A8EBDB66E05A9115F5C",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9F8955E968FBEDD63CC9B83BAB244DD838030FC7",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0BBED037AA26135B002625F96A3316A0AA87308F",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B377748ACE49C5040FF197F2F6856105C7E3856",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/TheSapphire/Art/Materials/M_CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "46DE531A2456A04A06866CC15F1927E4EAC581EB",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Player/Pspsps_Cat/MT_Pspsps_CatSkill1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8CCA18CC3AB5E9397F7632DBEAF8332823C67014",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Material/Shop_Font_Mat.uasset",
+				"../../../../0627/SogangUniv/Content/Material/Quest_Room_Font_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2860B87DDA521896580EE093407A3DAA737C5DC3",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF87B8B03CAF60A8462E62D901F0F7D1735FC75D",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Levels/Sapphire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "570580A47F132DE2908288A1EF0459E8B28F0F5E",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/Levels/Sapphire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7634B5F72FD261957CD0B2F9D33E2993034957CC",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_thunderForBeam.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AE5DECA07E06E5A86B2B2580F8AFBC42D89B75FA",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_vortex03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2D8EBF06A0533D36E2824BF1CEC3C81EDFF7F30A",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_tornado01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DB1381074F0139DDC9C5F918FFC9D387B1D0A20B",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_shockWave03_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "68AAE641FA4819D6359E9D9AAF3EE32529C34860",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_shockWave03g_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8049223E0F92EFA743DC79A7F5FCFCD0BA42017A",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_stone02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A2330CBAD28517F22F64275FF64E8C047497A0D4",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_vortex04_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC2DE807930D7BB51CD6133139F8CC7F5D187761",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_vortex04B_4x4_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6F6141F5EA8D871E19F751EEC75DF07EEFAE473",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_base_turbulence.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C708FD9A7DE4326D787FEA181BD8AF707BE7E13",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_dynDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "882B46D739ABEC097E37C31A96977C49759551AC",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_auraWall02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64FED3333FFA67FC9EE7A95B40E1C3D8EADB12F7",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_starDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "67E243F8E1729C8E801F37C28F3D29BBCF4BCA6B",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_starDust_dis.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "24ECB2FA86580A9344FCF3C41BFDB1F4244B1833",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_primitiveColor.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_primitiveColorB.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "211113AF20E918025B78327246CD3E11181F7439",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare14G.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare01b_primitiveG.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare01_primitiveG.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flareVertical02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "89701CF43E4ADAD3F01F1143CBB2731CB6390B0A",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare14B.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_flare01b_primitiveB.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9F77291FA61074C3A11F8DC7724C566A6E2B7C45",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_auraWall01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5FB30781D1BE421CBF27936562CC1DB61DE3AEA",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_auraWallB_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "40112D63F1DDAF5E99D98470CD73ED141A3ADB7B",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_circle04.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "146BB1501020722DC0BA427F9B4BF9CF0EFC5CB8",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_fire03b.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "05C391509C50BA70D23B24285483443FCE7325F1",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_polarGlow02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A2E9BEC3751C7453C3C6F47002779202866EEFB",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_lensFlare02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8EE38FC2E79E5DF829CA484D11BF614562D98629",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_primitiveColor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "43B1532D636D47FECE9465950B6D369A38AB0D4D",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_shockwave08.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D38F48474CEC023493B6F47D3582B93929838AFB",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_starDust_sq.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BBCCDCF05E10F70090FD43EA890C39CFE2A355FF",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_polarShockwave02.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/MI_ky_polarShockwave2_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9FFB6BEAA9698410A4FD52B60DEC3A923659CCAF",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_gaseous03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E91C1B3438774CEB24ABA1E8199B61BC5E1F55A5",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_trailGround01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A1D19DEAFDCD49327E1CFF484418ED74603E61A6",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultParticle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "438E37F8DABA06D92A29A974F35EEB1F374BF71E",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_trailGround01_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "36BA063291D9E79365966BF6EA3F8894B509EBDF",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_shockWave05_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "315A29FBFCE5E2D99F5DCE4704204ADA7424F77E",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_dust02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1ED64E86A4323ECFD5FB9A209188989992C3455C",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX13/Materials/M_ky_aura09.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FEB0165669F05DAD4B7C1C53F5714C5499167F27",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_vortex04_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "33B024676F09039F00AFEDEC2A3044CB7FD5B398",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_vortex04B_4x4_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB00A8DC2DD31C1F73982267184444506CCCB338",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_trail_sword_attribute.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "66A4EABAFDA12CFB3A765C8C0632938FF67FE3AE",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_waterDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1F415F4D870E5BB114AF714A0F08E61B7F52F6CC",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_turbDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "580C63AE3E61664061F8BC2DDDC000C3D0BAA809",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_turbDust6.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A417879FD8DB8F572C80B3A9A0D49F973A9A4A98",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_trail_sword.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BE5A6AFB3AF47C8EABA62C921F0D4582ADBE9A7F",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_trail_sword_primitive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "362D474DA0445351C99810992CBEE9B8186AB9A3",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_empty.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AE02E5522336FB9CE6B3D8564044012F0A478602",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_primitive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A93943A10A68495EE8DB0B675D2CDF5BC940472",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_aura14.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "267E636B10261D8C54CC6A8CE8398799429F546F",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_shockWave03_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "690FF792A14CBB931D5BA45E2C6771F5841C849E",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_shockWave03g_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64721EDA8CCB2FD48AB00C986E1F59FD278A8AEA",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_ice04.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E6A36D02C649B2AC5AA350F28579E2AA05D4A559",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_noiseSmoke2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "60734922087EFD2FAF296FDC38DF139986C85DA4",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_aura14_waterB_nonD.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_aura14_thunderB_nonD.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_aura14_shineC_nonD.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_aura14_iceB_nonD.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_aura14_fireB_nonD.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_aura14_darkB_nonD.uasset",
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/MI_ky_aura14b_nonD.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4BC8645D3648EB0A45F368DED67B9596C7BEB432",
+			"Assets": [
+				"../../../../0627/SogangUniv/Content/AdvancedMagicFX12/Materials/M_ky_sword_black.uasset"
+			]
+		}
+	]
+}

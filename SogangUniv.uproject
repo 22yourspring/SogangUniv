@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SogangUniv",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule",
+				"UMG",
+				"CoreUObject",
+				"PhysicsCore"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Restart",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1bf89025ddf246e3af3c196d0426e0d3"
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "AndroidCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "AwsDemo",
+			"Enabled": false
+		},
+		{
+			"Name": "awsSDK",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1d2dc261d8124217ab2f2023c7ea54b6"
+		},
+		{
+			"Name": "AwsS3",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/828b50772aed411d8cf54933827b9c6a"
+		}
+	]
+}

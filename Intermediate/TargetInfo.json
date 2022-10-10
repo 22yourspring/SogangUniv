@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SogangUniv",
+			"Path": "D:\\soganguniv\\SogangUniv\\Source\\SogangUniv.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SogangUnivEditor",
+			"Path": "D:\\soganguniv\\SogangUniv\\Source\\SogangUnivEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
